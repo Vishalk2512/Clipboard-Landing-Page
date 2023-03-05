@@ -49,7 +49,7 @@ sr.reveal(
 
 sr.reveal(`.section2__image`, {
   distance: "0px",
-  scale: 0.8,
+  scale: 0.98,
 });
 
 sr.reveal(`.section1__feature-left, .footer__logo`, {
